@@ -1,7 +1,7 @@
 # courses-website
-website for registered courses  
 
-A website that allows browsing courses, recording, deleting, and modifying courses in the database.
+website for registered courses that allows browsing courses, recording, deleting, and modifying courses in the database.
+
 ![image](https://github.com/user-attachments/assets/a706c057-5c34-4b50-acc9-4784d013649e)
 
 ![image](https://github.com/user-attachments/assets/67c7c5be-21ba-4c79-9972-22ce72000e56)
